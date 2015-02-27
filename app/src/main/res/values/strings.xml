@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">Tuesday</string>
-
+    <string name="app_name">Whatever this game is called.</string>
+    <string name="fuck">fuuuuuuuck</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 </resources>
